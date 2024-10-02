@@ -6,6 +6,10 @@ http://77.243.112.149:8080/match_hd/index.m3u8
 http://65.21.85.175:8000/play/a00a/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
 http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
+#EXTINF:-1 group-title="Спорт", Матч! Премьер Резерв 2
+http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/220/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Премьер Резерв 2
+http://ott.server-iptv.live/208/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
