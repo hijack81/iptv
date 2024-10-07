@@ -1,0 +1,5 @@
+#EXTINF:-1 tvg-id="okko-sport" group-title="Спортивные", Окко Спорт HD
+http://ottplayer.klimedia.space:8087/ottplayer/cdn.klimedia.space/Football1HD/klimedia.space:VXNwZWh0djprbGltZWRpYQ==/index.m3u8
+
+#EXTINF:-1 tvg-id="okko-football" group-title="Спортивные", Окко Футбол HD
+http://ottplayer.klimedia.space:8087/ottplayer/cdn.klimedia.space/livefudtv/klimedia.space:VXNwZWh0djprbGltZWRpYQ==/index.m3u8
