@@ -2,16 +2,18 @@
 http://91.142.158.107:8092/play/33/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! HD
 http://77.243.112.149:8080/match_hd/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Премьер
-http://65.21.85.175:8000/play/a00a/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Спорт", Матч! Премьер HD
-http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
-#EXTINF:-1 group-title="Спорт", Матч! Премьер Резерв 1
-http://93.189.56.58/iptv/WCKQ3HC3UMGVLG/220/1727857775000.ts?md5=jUciXMtd601i3u3WhM6PCg
-#EXTINF:-1 group-title="Спорт", Матч! Премьер Резерв 2
-http://93.189.56.58/iptv/WCKQ3HC3UMGVLG/220/1727857785000.ts?md5=jUciXMtd601i3u3WhM6PCg
-#EXTINF:-1 group-title="Спорт", Матч! Премьер Резерв 3
-http://93.189.56.58/iptv/WCKQ3HC3UMGVLG/220/1727857795000.ts?md5=jUciXMtd601i3u3WhM6PCg
+#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч! Премьер
+http://91.194.191.241:8081/chid172/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч Премьер
+http://77.235.1.17/match_premier/index.m3u8
+
+#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч! Пpемьер HD
+#EXTVLCOPT:http-user-agent=SmartTV
+https://tv.movielab.pro/250/video.m3u8?token=76ea0449f7fd83da5b2f4b36261dba470f29a6ac-90638b489a5caff32a91616e9ce170a6-1730104628-1730018228
+
+#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч Премьер HD
+http://tv.newline.in.ua:9020/play/z02d
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
