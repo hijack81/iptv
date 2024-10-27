@@ -1,6 +1,6 @@
-#EXTINF:-1 group-title="Спорт", Матч!
+#EXTINF:-1 group-title="Спортивные", Матч!
 http://91.142.158.107:8092/play/33/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! HD
+#EXTINF:-1 group-title="Спортивные", Матч! HD
 http://77.243.112.149:8080/match_hd/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч! Премьер
 http://91.194.191.241:8081/chid172/tracks-v1a1/mono.m3u8
