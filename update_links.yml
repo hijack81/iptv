@@ -1,0 +1,32 @@
+name: Update IPTV Links
+
+on:
+  schedule:
+    - cron: "0 12 * * *"  # Запуск каждый день в 12:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      
+      - name: Install dependencies
+        run: pip install requests
+      
+      - name: Run update script
+        run: python update_script.py
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "eskhatosstar@gmail.com"
+          git config --local user.name "hijack81"
+          git add All.m3u
+          git commit -m "Update IPTV links"
+          git push
