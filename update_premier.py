@@ -1,8 +1,10 @@
 import requests
+from datetime import datetime
 
 # URLs для исходного и целевого файлов
 source_url = "https://gitlab.com/iptv135435/iptvshared/-/raw/main/IPTV_SHARED.m3u"
 user_repo_file = "premier_test.m3u"  # локальное имя файла, в который будут добавляться ссылки
+log_file = "update_log.txt"  # файл для ведения журнала обновлений
 
 # Ключевые слова для поиска нужных каналов
 target_channels = [
@@ -23,7 +25,6 @@ def filter_target_channels(m3u_content, channel_names):
     lines = m3u_content.splitlines()
     
     for i in range(len(lines)):
-        # Проверяем, содержит ли строка одно из названий каналов из channel_names
         if any(channel in lines[i] for channel in channel_names):
             filtered_lines.append(lines[i])      # Добавляем строку с названием канала
             if i + 1 < len(lines):
@@ -32,15 +33,28 @@ def filter_target_channels(m3u_content, channel_names):
     return "\n".join(filtered_lines)
 
 def update_repo(source_content, user_content):
-    """Добавляет новые строки из source_content в user_content, если их еще нет."""
+    """Добавляет новые строки из source_content в user_content, если их еще нет, и ведет лог изменений."""
     updated_content = user_content
     new_lines = source_content.splitlines()
+    added_links = []
     
     for line in new_lines:
         if line not in user_content:
             updated_content += f"\n{line}"
+            added_links.append(line)
     
-    return updated_content
+    return updated_content, added_links
+
+def log_update(added_links):
+    """Записывает время и добавленные ссылки в файл лога."""
+    with open(log_file, "a", encoding="utf-8") as log:
+        log.write(f"\n\n--- Обновление: {datetime.now()} ---\n")
+        if added_links:
+            log.write("Добавлены следующие ссылки:\n")
+            for link in added_links:
+                log.write(f"{link}\n")
+        else:
+            log.write("Новых ссылок не добавлено.\n")
 
 def main():
     # Скачиваем содержимое исходного и целевого .m3u файлов
@@ -57,12 +71,15 @@ def main():
         user_content = ""  # Если файл еще не существует, создаем новый контент
     
     # Обновляем целевой файл новыми ссылками
-    updated_content = update_repo(target_content, user_content)
+    updated_content, added_links = update_repo(target_content, user_content)
     
     # Сохраняем обновленный контент
     with open(user_repo_file, "w", encoding="utf-8") as f:
         f.write(updated_content)
-    print(f"Обновление завершено и сохранено в {user_repo_file}")
+    
+    # Ведем журнал обновлений
+    log_update(added_links)
+    print(f"Обновление завершено. Лог сохранен в {log_file}")
 
 if __name__ == "__main__":
     main()
