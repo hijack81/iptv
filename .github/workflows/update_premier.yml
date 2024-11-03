@@ -31,5 +31,4 @@ jobs:
           git config --global user.name "hijack81"
           git add premier_test.m3u update_log.txt
           git commit -m "Update Premier links and log"
-          git pull --rebase "https://${GH_TOKEN}@github.com/hijack81/iptv.git" main
-          git push "https://$TOKEN@github.com/hijack81/iptv.git" HEAD:main
+          git push --force "https://${GH_TOKEN}@github.com/hijack81/iptv.git" HEAD:main
