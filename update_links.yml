@@ -1,12 +1,12 @@
-name: Update IPTV Links
+name: Update Premier Links
 
 on:
   schedule:
-    - cron: "0 6,18 * * *"  # Запуск каждый день в 12:00 UTC
+    - cron: "0 6,18 * * *"  # Запуск каждый день в 6:00 и 18:00 UTC
   workflow_dispatch:
 
 jobs:
-  update-links:
+  update-premier-links:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -21,12 +21,12 @@ jobs:
         run: pip install requests
       
       - name: Run update script
-        run: python update_script.py
+        run: python update_premier.py
       
       - name: Commit and push changes
         run: |
-          git config --local user.email "eskhatosstar@gmail.com"
+          git config --local user.email "eskhattosstar@gmail.com"
           git config --local user.name "hijack81"
-          git add All.m3u
-          git commit -m "Update IPTV links"
+          git add premier_test.m3u
+          git commit -m "Update Premier links"
           git push
