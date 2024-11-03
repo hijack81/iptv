@@ -3,7 +3,7 @@ name: Update Premier Links
 on:
   schedule:
     - cron: "0 6,18 * * *"  # Запуск каждый день в 6:00 и 18:00 UTC
-  workflow_dispatch:
+  workflow_dispatch:         # Включает ручной запуск через интерфейс GitHub Actions
 
 jobs:
   update-premier-links:
@@ -25,8 +25,8 @@ jobs:
       
       - name: Commit and push changes
         run: |
-          git config --local user.email "eskhattosstar@gmail.com"
+          git config --local user.email "eskhatosstar@gmail.com"
           git config --local user.name "hijack81"
-          git add premier_test.m3u
-          git commit -m "Update Premier links"
+          git add premier_test.m3u update_log.txt
+          git commit -m "Update Premier links and log"
           git push
