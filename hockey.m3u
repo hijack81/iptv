@@ -1,10 +1,16 @@
-#EXTINF:-1 tvg-id="kxl" group-title="Спортивные" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}", KHL
+#EXTINF:-1 tvg-id="kxl" group-title="Хоккей", КХЛ
+http://91.194.191.241:8081/chid55/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kxl" group-title="Хоккей" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}", KHL
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
-#EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные",КХЛ HD
+
+#EXTINF:-1 tvg-id="kxl-hd" group-title="Хоккей",КХЛ HD
 http://178.124.179.122:8088/KHL_HD/index.m3u8
-#EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}", KHL Prime
+
+#EXTINF:-1 tvg-id="kxl-hd" group-title="Хоккей" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}", KHL Prime
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
-#EXTINF:-1 group-title="Спортивные",Хоккей ТВ
+
+#EXTINF:-1 group-title="Хоккей",Хоккей ТВ
 https://stream-msk-09.ott.tricolor.tv/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://bonus-betting.ru/wp-content/uploads/2021/10/nhl-logo.png" group-title="Спортивные", NHL (Интересные моменты)
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://bonus-betting.ru/wp-content/uploads/2021/10/nhl-logo.png" group-title="Хоккей", NHL (Интересные моменты)
 https://nhl-firetv.amagi.tv/playlist.m3u8
