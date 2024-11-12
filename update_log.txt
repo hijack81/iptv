@@ -93,3 +93,9 @@ http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
 
 --- Обновление: 2024-11-12 06:27:56.169461 ---
 Новых ссылок не добавлено.
+
+
+--- Обновление: 2024-11-12 18:26:55.879815 ---
+Добавлены следующие ссылки:
+https://tv.movielab.pro/250/video.m3u8?token=a49daed951573566981dac9a7b0b0e73a9846987-4af36125ae8e81afc47210ad27eaf894-1731484371-1731397971
+https://tv.movielab.pro/271/video.m3u8?token=cefac2c55c46c2d150c6f504827743231945a542-19eea1470d2bf72da03e28eb81e9d935-1731484371-1731397971

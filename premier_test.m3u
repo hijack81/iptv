@@ -26,3 +26,5 @@ rtmp://92.119.88.58//2408
 #EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч Премьер 4K
 http://50.7.92.98:8887/8671/video.m3u8
 http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
+https://tv.movielab.pro/250/video.m3u8?token=a49daed951573566981dac9a7b0b0e73a9846987-4af36125ae8e81afc47210ad27eaf894-1731484371-1731397971
+https://tv.movielab.pro/271/video.m3u8?token=cefac2c55c46c2d150c6f504827743231945a542-19eea1470d2bf72da03e28eb81e9d935-1731484371-1731397971
