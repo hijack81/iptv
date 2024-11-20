@@ -190,3 +190,13 @@ http://ditv.ydns.eu:8888/channel/20efb99b/index.m3u8?q=0f86c7ec34662b6818f517258
 
 --- Обновление: 2024-11-20 06:30:05.693004 ---
 Новых ссылок не добавлено.
+
+
+--- Обновление: 2024-11-20 18:29:14.810407 ---
+Добавлены следующие ссылки:
+https://tv.movielab.pro/250/video.m3u8?token=32eb12a80c4ce74937a838912dabe19d34501e0b-659f2107b2128b509f50bee41641603f-1732132698-1732046298
+http://tv.ttk.mx:9114
+https://tv.movielab.pro/260/video.m3u8?token=3247977f54361039d3694487f1124736911bc45d-58b8960cec80fa52f8bd854c9a43288e-1732132698-1732046298
+http://tv.ttk.mx:9115
+https://tv.movielab.pro/271/video.m3u8?token=b4128a28bcb5ddfd42ff8fa4457146636f86a9f3-1cebf73b08462ea142bbfc3781f7161e-1732132698-1732046298
+http://tv.ttk.mx:9116
