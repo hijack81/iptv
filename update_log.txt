@@ -207,3 +207,10 @@ http://tv.ttk.mx:9116
 https://tv.movielab.pro/250/video.m3u8?token=e8d7fc0ada056ac55a4fb890ad45fac68cd6931d-50b24f4a40b4694fe33d13d4ca05b55f-1732218904-1732132504
 https://tv.movielab.pro/260/video.m3u8?token=a594f241cba1c466fe7d3bff597c8a18c4015235-0ec00d8b8a23621654497bc4e00f14ab-1732218904-1732132504
 https://tv.movielab.pro/271/video.m3u8?token=13b5c704c4b0fd6eabc6a08051139a8be2ba008c-971ac662859298090f70e1b84d385f83-1732218904-1732132504
+
+
+--- Обновление: 2024-11-21 18:28:58.852948 ---
+Добавлены следующие ссылки:
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyNCA4OjAwOjA0IFBNJmhhc2hfdmFsdWU9ZUtjRU40bE5Wd2tZWGpzbUZkUklGdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.14/dvr02/mobile1/NTVplusfut3HD/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyNCA4OjAwOjA0IFBNJmhhc2hfdmFsdWU9ZUtjRU40bE5Wd2tZWGpzbUZkUklGdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
