@@ -214,3 +214,12 @@ https://tv.movielab.pro/271/video.m3u8?token=13b5c704c4b0fd6eabc6a08051139a8be2b
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyNCA4OjAwOjA0IFBNJmhhc2hfdmFsdWU9ZUtjRU40bE5Wd2tZWGpzbUZkUklGdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 http://95.181.17.14/dvr02/mobile1/NTVplusfut3HD/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyNCA4OjAwOjA0IFBNJmhhc2hfdmFsdWU9ZUtjRU40bE5Wd2tZWGpzbUZkUklGdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+
+
+--- Обновление: 2024-11-22 06:29:39.114097 ---
+Добавлены следующие ссылки:
+https://tv.movielab.pro/250/video.m3u8?token=b96f70f429864c0f20ece73a933ac1005c6b093a-47606274728daf0c278f9e8c46e2fa25-1732305198-1732218798
+https://tv.movielab.pro/260/video.m3u8?token=dd9267d4d0038dd3bdce34cdf7788d88244bee39-81be6ed704d039afddf3e1fbf1324008-1732305198-1732218798
+http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNCA3OjU4OjE4IFBNJmhhc2hfdmFsdWU9NzMxSFBMQzJqTDF0VDFIWXp3a0xMUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+https://tv.movielab.pro/271/video.m3u8?token=dab7b1460ee3e4b84cce07a2dea03dea2fc4b1b3-21fc65ab48d006108dffb6c9462d6676-1732305198-1732218798
+http://95.181.17.14/dvr02/mobile1/NTVplusfut3HD/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNCA3OjU4OjE4IFBNJmhhc2hfdmFsdWU9NzMxSFBMQzJqTDF0VDFIWXp3a0xMUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
