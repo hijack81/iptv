@@ -269,3 +269,13 @@ http://95.181.17.14/dvr02/mobile1/NTVplusfut3HD/chunks.m3u8?&wmsAuthSign=c2VydmV
 
 --- Обновление: 2024-11-25 18:28:49.868127 ---
 Новых ссылок не добавлено.
+
+
+--- Обновление: 2024-11-26 06:29:55.251405 ---
+Добавлены следующие ссылки:
+http://s7.merlive.am/matchpremier/index.m3u8
+https://tv.movielab.pro/250/video.m3u8?token=a18bf275df28ec1c9d02d428ef8c6fa2bd710f06-5b4b4fd531f96886f5d8d28f4d385d4b-1732650804-1732564404
+https://tv.movielab.pro/260/video.m3u8?token=6c67943cec14a31aba156c0e57b4590118ae9bee-bb42276456f6f453c2529895d06480a9-1732650804-1732564404
+http://str16.tv/6026/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+https://tv.movielab.pro/271/video.m3u8?token=cdab611c5ca7c6b5f3d16923e03ca83ea08aa620-2d4c5c51e950eaabc4172e144c5a4765-1732650804-1732564404
+http://str16.tv/1846/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
