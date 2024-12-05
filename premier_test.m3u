@@ -131,3 +131,5 @@ http://s1.merlive.am/matchpremier/index.m3u8
 http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
 http://45.151.69.10:8887/8023/video.m3u8?token=iptvshared
 http://45.151.69.10:8887/8022/video.m3u8?token=iptvshared
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-premier", Матч! Премьер HD
+#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч! Премьер FHD

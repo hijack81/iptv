@@ -378,3 +378,9 @@ http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
 Добавлены следующие ссылки:
 http://45.151.69.10:8887/8023/video.m3u8?token=iptvshared
 http://45.151.69.10:8887/8022/video.m3u8?token=iptvshared
+
+
+--- Обновление: 2024-12-05 06:31:09.918139 ---
+Добавлены следующие ссылки:
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-premier", Матч! Премьер HD
+#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч! Премьер FHD
