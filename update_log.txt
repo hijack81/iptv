@@ -446,3 +446,12 @@ https://tv.movielab.pro/271/video.m3u8?token=c7de9ad3efcc94c4505c233b20874d0e82f
 https://tv.movielab.pro/250/video.m3u8?token=038b14de51826740fd11d3ac142ed4a9e52b9833-a2b7990de85f8c6c5799c7808f3de4d1-1733946930-1733860530
 https://tv.movielab.pro/260/video.m3u8?token=412bd3dc4249d1e20c95629c1091dde38504fed8-b3aa8d9125012f3cb49194c2e13513ba-1733946930-1733860530
 https://tv.movielab.pro/271/video.m3u8?token=48f2c15cd94215bd2f0893497c78f4565e288899-e44af88afde17944522e3932a284de5c-1733946930-1733860530
+
+
+--- Обновление: 2024-12-11 18:30:53.711439 ---
+Добавлены следующие ссылки:
+https://tv.movielab.pro/250/video.m3u8?token=cb999bd9a2c05a2a82606c5c9f9a5d0a72765413-52b5b741329ba7a23baa66d5dfb15cc8-1733990156-1733903756
+https://tv.movielab.pro/260/video.m3u8?token=9b1ddb3a763639fa37406f5cab2a162dc5dc7e70-62104c3b71d7a2309ecb71131391dea2-1733990156-1733903756
+https://tv.movielab.pro/271/video.m3u8?token=3cd6d797895fb3b7221613b7323ba657d9ee759d-ed317d8e0267cebd81adf5077f0094fa-1733990156-1733903756
+#EXTINF:-1 tvg-id="match-football3" group-title="Спортивные", Матч! Футбол 3 FHD
+https://tv.movielab.pro/329/video.m3u8?token=1f3c37e6b374b1743c531f8c1dcfd386513953d5-9e7a9afc936372c8b746a7766b1e6c20-1733990156-1733903756
