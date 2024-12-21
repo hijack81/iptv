@@ -583,3 +583,11 @@ https://tv.movielab.pro/329/video.m3u8?token=e6d81f21ceaa8795413625f6f0b43cb547d
 
 --- Обновление: 2024-12-21 06:26:14.367700 ---
 Новых ссылок не добавлено.
+
+
+--- Обновление: 2024-12-21 18:25:18.674524 ---
+Добавлены следующие ссылки:
+https://tv.movielab.pro/250/video.m3u8?token=dcabfbc64278ecb546f0cc43518f965e330e928f-0fd23dea52a6d591b916ed3263aa25f5-1734856791-1734770391
+https://tv.movielab.pro/260/video.m3u8?token=7147a643f12ef501ee6d80e504a5b26740268bcf-e3de4898ebf088ab63d1649d0873c67f-1734856791-1734770391
+https://tv.movielab.pro/271/video.m3u8?token=32187d8b8e70840f41d18d7d946dd085a46fabc8-28e762379214ec1ac3377b78b42c17d9-1734856791-1734770391
+https://tv.movielab.pro/329/video.m3u8?token=467fa82437cce3ceaefafd9fe45551d5ce96f747-c5d2ac67b3e50d47dde02ed60c36a273-1734856791-1734770391
