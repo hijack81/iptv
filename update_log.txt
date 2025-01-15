@@ -939,3 +939,11 @@ https://tv.movielab.pro/250/video.m3u8?token=93d1075ec8e7cd89c9b6b8e987c41b54a3f
 https://tv.movielab.pro/260/video.m3u8?token=0b653850c8a726b099e1a4a4cc06a848c6c580e1-d56a298175a5662dd6de3b235c0b96c9-1736970880-1736884480
 https://tv.movielab.pro/271/video.m3u8?token=17564b08ea55dfd8edac27320b00c9a3abbebfd8-9bfb4bbec8680ac0e223aacdfcadf08e-1736970880-1736884480
 https://tv.movielab.pro/329/video.m3u8?token=7609ad507ed5439df00ace958706e8d431582d5b-0b9e3f7f8ff1c8c4baaecf0952acd3d3-1736970880-1736884480
+
+
+--- Обновление: 2025-01-15 18:26:16.021697 ---
+Добавлены следующие ссылки:
+https://tv.movielab.pro/250/video.m3u8?token=fc57598600262bca82c749c2f63bf95ff671c192-f2937294311cc397765e253ac71ca8d8-1737014075-1736927675
+https://tv.movielab.pro/260/video.m3u8?token=1a08c44f1fac5e3c38c9332ab6e220516a33904a-da3f02707de5f2caba41916a6e53d169-1737014075-1736927675
+https://tv.movielab.pro/271/video.m3u8?token=91d9d2d63f73520c5f41829a65f2341046ffdb7b-d166d89012dfcdd8829b1d495240f0b4-1737014075-1736927675
+https://tv.movielab.pro/329/video.m3u8?token=04cde7fef5dd0a0f03011aba483cab848a9bbdc7-5e0ec78abf2a644ca67ad529627eabf7-1737014075-1736927675
