@@ -947,3 +947,12 @@ https://tv.movielab.pro/250/video.m3u8?token=fc57598600262bca82c749c2f63bf95ff67
 https://tv.movielab.pro/260/video.m3u8?token=1a08c44f1fac5e3c38c9332ab6e220516a33904a-da3f02707de5f2caba41916a6e53d169-1737014075-1736927675
 https://tv.movielab.pro/271/video.m3u8?token=91d9d2d63f73520c5f41829a65f2341046ffdb7b-d166d89012dfcdd8829b1d495240f0b4-1737014075-1736927675
 https://tv.movielab.pro/329/video.m3u8?token=04cde7fef5dd0a0f03011aba483cab848a9bbdc7-5e0ec78abf2a644ca67ad529627eabf7-1737014075-1736927675
+
+
+--- Обновление: 2025-01-16 06:27:15.033300 ---
+Добавлены следующие ссылки:
+https://tv.movielab.pro/250/video.m3u8?token=2cdd77e1d912a33bddb68e619937279e21d724cd-832e766c24eda72a318176884dca5f0c-1737057385-1736970985
+https://tv.movielab.pro/260/video.m3u8?token=3050bef88060e8d27133de16f960b950ee646b9d-b95368c7ffa64f7c7d29e546ddf08f91-1737057385-1736970985
+https://tv.movielab.pro/271/video.m3u8?token=7375f48475008b7fe77224bda14588516b8c632c-18fbbead3d3bbe8abaab638861e7f7ff-1737057385-1736970985
+http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
+https://tv.movielab.pro/329/video.m3u8?token=abc933951460400b636a4e0d615a1d0be7a259f7-9bce8979aa18443dbabdb49c879ee3a5-1737057385-1736970985
