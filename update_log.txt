@@ -1427,3 +1427,12 @@ https://tv.movielab.pro/329/video.m3u8?token=a63a8d328e976fc5441778427b9e7ea0113
 
 --- Обновление: 2025-02-21 06:28:33.092366 ---
 Новых ссылок не добавлено.
+
+
+--- Обновление: 2025-02-21 18:27:25.749044 ---
+Добавлены следующие ссылки:
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI1IDg6MDA6MzIgQU0maGFzaF92YWx1ZT03MmRGSVFjcU5scWg1OGJSZmJ4Z2hBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+https://tv.movielab.pro/250/video.m3u8?token=632e9f7f21067d44a729ae5e6ea5f4aacc0b60c4-a42f567b9094429804818b49e7684022-1740210933-1740124533
+https://tv.movielab.pro/260/video.m3u8?token=4baf2cbd201f267cf985563439151be55ab53fd9-a87a161626f6ca75b564ba1f9280254e-1740210933-1740124533
+https://tv.movielab.pro/271/video.m3u8?token=03b18c77b503894db050bc3cbb4e16e326088dd6-8b557fe59cca7bb71129ae878c79926f-1740210933-1740124533
+https://tv.movielab.pro/329/video.m3u8?token=8d01daf09f7146df64365ef08e1739e0c44a4e7c-452131e3099b911b440e0ea3747663f6-1740210933-1740124533
