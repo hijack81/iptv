@@ -1580,3 +1580,9 @@ https://tv.movielab.pro/250/video.m3u8?token=9a4fab8c348c5d86e7313eed20d9632ba2d
 https://tv.movielab.pro/260/video.m3u8?token=d07af0c40c2eba0adf70e3621b8d912eb325bdc4-c4aae173e95d463f4b12b580256949c7-1741161261-1741074861
 https://tv.movielab.pro/271/video.m3u8?token=f5dbdfc535a05c63681b8706296674f3026e8edb-098a8a7b633486b737a5afc03f008f55-1741161261-1741074861
 https://tv.movielab.pro/329/video.m3u8?token=ba272e730ae7b2ad1afde3d98432bb355a23e743-9b109ac908f54dda75a94f6cedb72cb2-1741161261-1741074861
+
+
+--- Обновление: 2025-03-05 06:29:45.475570 ---
+Добавлены следующие ссылки:
+http://195.18.23.20:8000/play/88/index.m3u8
+http://31.148.48.15/Match_Futbol_2_HD/mono.m3u8
