@@ -1978,3 +1978,18 @@ https://tv.movielab.pro/329/video.m3u8?token=b4f3f7649e85277b35458bec76acdaceb0d
 
 --- Обновление: 2025-04-03 06:31:10.661124 ---
 Новых ссылок не добавлено.
+
+
+--- Обновление: 2025-04-03 18:29:40.921432 ---
+Добавлены следующие ссылки:
+http://195.158.222.113:8000/play/87/index.m3u8
+http://195.158.222.113:8000/play/162/index.m3u8
+https://tv.movielab.pro/250/video.m3u8?token=f8900b6f692eac0f2304f172dc154cdf8532fe4d-a8701da6a73ceecac36a2f3960dfc85a-1743749742-1743663342
+http://195.158.222.113:8000/play/80/index.m3u8
+https://tv.movielab.pro/260/video.m3u8?token=a42d95085de588fa90128b3a36d5002ed3a8cea2-8b23b5131a54b7d51e655fe3acf3486a-1743749742-1743663342
+#EXTINF:-1 tvg-id="match-football1" group-title="Спортивные", Матч! Футбол 2
+http://195.158.222.113:8000/play/81/index.m3u8
+https://tv.movielab.pro/271/video.m3u8?token=316936c915f3425276bb7a284fee7b454b2b3282-fe2dc85368f71a3868dbded30e5a15b4-1743749742-1743663342
+#EXTINF:-1 tvg-id="match-football1" group-title="Спортивные", Матч! Футбол 3
+http://195.158.222.113:8000/play/82/index.m3u8
+https://tv.movielab.pro/329/video.m3u8?token=3a05c47aede7c3b54a7a01da5d866fb6d79e3f52-94a2e8ec4612cf03a6ec02d41fbe827b-1743749742-1743663342
