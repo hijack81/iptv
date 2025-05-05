@@ -2380,3 +2380,10 @@ https://tv.movielab.pro/271/video.m3u8?token=47466abbb26c83115d3ac9687b6723f7fa4
 
 --- Обновление: 2025-05-05 06:33:29.661875 ---
 Новых ссылок не добавлено.
+
+
+--- Обновление: 2025-05-05 18:27:57.425275 ---
+Добавлены следующие ссылки:
+https://tv.movielab.pro/250/video.m3u8?token=973d4c1d0326e783e0fb320340ac6c6cb0e8ff00-37b543e5dbbf4fea2fdfe269a68c52b0-1746514839-1746428439
+https://tv.movielab.pro/260/video.m3u8?token=bc6e51d9fd8feafbd3d781ba094b3a4504d6c9bf-7e6b97e0fab358c1a89fad8963fb269b-1746514839-1746428439
+https://tv.movielab.pro/271/video.m3u8?token=503fe3784009898d270385753e4acd270dff33a2-5613b834c2cb5d0f394ceaff8bbc89ba-1746514839-1746428439
