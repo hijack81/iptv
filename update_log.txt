@@ -2785,3 +2785,7 @@ https://tv.movielab.pro/271/video.m3u8?token=15034fedf91e1d6efbceffe17a792b8e251
 Добавлены следующие ссылки:
 #EXTINF:-1 group-title="Кинозалы Rutube" tvg-logo="https://i.postimg.cc/PxqLDYkp/77155b5c5f4b402270087106968fc25f.png" logo="https://i.postimg.cc/d3bDgfZr/126f7ce579c74bee6788041e2005a67b.png" channelId="277" tvg-id="match-premier",Матч! Премьер
 https://bl.rutube.ru/livestream/aff65dc545434d8aaaa1669dc95848cd/index.m3u8?s=L30WNvNxLSEh2j5656F4qw&e=1750151027&scheme=https
+
+
+--- Обновление: 2025-06-17 06:34:16.481331 ---
+Новых ссылок не добавлено.
