@@ -2847,3 +2847,7 @@ https://bl.rutube.ru/livestream/aff65dc545434d8aaaa1669dc95848cd/index.m3u8?s=L3
 Добавлены следующие ссылки:
 http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
 http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
+
+
+--- Обновление: 2025-06-24 06:35:07.373248 ---
+Новых ссылок не добавлено.
